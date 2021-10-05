@@ -1,0 +1,14 @@
+{
+  "name": "ngx-taiga-ui-validation",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0",
+    "@taiga-ui/cdk": "2.15.0",
+    "@taiga-ui/core": "2.15.0",
+    "@ngx-translate/core": "^13.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
+  "dest": "../../dist/ngx-taiga-ui-validation",
+  "lib": {
+    "entryFile": "src/public-api.ts",
+    "umdModuleIds": {
+      "@ngx-translate/core": "@ngx-translate/core",
+      "@tinkoff/ng-polymorpheus": "@tinkoff/ng-polymorpheus",
+      "@taiga-ui/cdk": "@taiga-ui/cdk",
+      "@taiga-ui/core": "@taiga-ui/core"
+    }
+  }
+}
